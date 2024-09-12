@@ -4,7 +4,7 @@
 
 * A [Google Cloud account](https://cloud.google.com/gcp) and a [Google Cloud Project](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
 * [Google Cloud SDK installed](https://cloud.google.com/sdk/docs/install) (gcloud CLI utitly)
-* Trained [app.py](), our app uses an image classification model trained on a number of different classes of wheat rust
+* Trained [Machine Learning Model](app.py), our app uses an image classification model trained on a number of different classes of wheat rust
 * [Docker installed](https://docs.docker.com/get-docker/)
 
 ## Build and deploy
